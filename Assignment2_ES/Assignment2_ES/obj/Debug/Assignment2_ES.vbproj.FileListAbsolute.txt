@@ -1,0 +1,24 @@
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.exe.config
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.exe
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.pdb
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.xml
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.Form1.resources
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.Resources.resources
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.exe
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.xml
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.pdb
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.exe.config
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.exe
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.pdb
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\bin\Debug\Assignment2_ES.xml
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.Form1.resources
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.Resources.resources
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.exe
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.xml
+C:\Users\e5sco\Desktop\Git Pushes\2_Math_Problem_Display_Text_VB.net\Assignment2_ES\Assignment2_ES\obj\Debug\Assignment2_ES.pdb
